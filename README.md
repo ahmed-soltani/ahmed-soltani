@@ -1,4 +1,4 @@
-[![Gmail](https://img.shields.io/badge/-ahmed.soltani-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ahso4137@bht-berlin.de) [![](https://visitcount.itsvg.in/api?id=ahmed-soltani&icon=5&color=1)](https://visitcount.itsvg.in) [![Github](https://img.shields.io/github/followers/sarwirr?label=Follow&style=social)](https://github.com/sarwirr) 
+[![Gmail](https://img.shields.io/badge/-ahmed.soltani-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ahso4137@bht-berlin.de) [![](https://visitcount.itsvg.in/api?id=ahmed-soltani&icon=5&color=1)](https://visitcount.itsvg.in) [![Github](https://img.shields.io/github/followers/ahmed-soltani?label=Follow&style=social)](https://github.com/ahmed-soltani) 
 
 <h1 align="center">
     <b>Hello :wave:</b>
