@@ -16,7 +16,7 @@ introduction:
         language: English | German | French | Arabic
         os: Windows | Ubuntu
     bio: |
-       I am a 4th semester Computer Science student at the
+       I am a 6th semester Computer Science student at the
        Berliner Hochschule für Technik (BHT).     
 ```
 
